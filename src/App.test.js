@@ -20,10 +20,4 @@ test("placeholder text are in place", () => {
    getByPlaceholderText('bluebill1049@hotmail.com');
 })
 
-describe("", () => {
-  it("", () => {
-    expect().toBe();
-  })
-})
-
 
